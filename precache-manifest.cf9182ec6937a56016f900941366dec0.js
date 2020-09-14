@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e4f68434b35bed665c064ef4b310fd4b",
+    "revision": "d6ccc0424043945da78b57a27daf2036",
     "url": "/miniAppVulnerable/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa8288de4b6503996746",
-    "url": "/miniAppVulnerable/static/js/main.577dbcc9.chunk.js"
+    "revision": "ffe0b0d2e6286309aa4d",
+    "url": "/miniAppVulnerable/static/js/main.aa2c72f3.chunk.js"
   },
   {
     "revision": "3ac66c1b593f445aee0a",
