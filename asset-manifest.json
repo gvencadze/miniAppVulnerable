@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/miniAppVulnerable/static/js/main.5aa2b557.chunk.js",
-    "main.js.map": "/miniAppVulnerable/static/js/main.5aa2b557.chunk.js.map",
+    "main.js": "/miniAppVulnerable/static/js/main.577dbcc9.chunk.js",
+    "main.js.map": "/miniAppVulnerable/static/js/main.577dbcc9.chunk.js.map",
     "runtime-main.js": "/miniAppVulnerable/static/js/runtime-main.16a7461e.js",
     "runtime-main.js.map": "/miniAppVulnerable/static/js/runtime-main.16a7461e.js.map",
     "static/css/2.09e62520.chunk.css": "/miniAppVulnerable/static/css/2.09e62520.chunk.css",
-    "static/js/2.553797f6.chunk.js": "/miniAppVulnerable/static/js/2.553797f6.chunk.js",
-    "static/js/2.553797f6.chunk.js.map": "/miniAppVulnerable/static/js/2.553797f6.chunk.js.map",
+    "static/js/2.31bba7e0.chunk.js": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js",
+    "static/js/2.31bba7e0.chunk.js.map": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js.map",
     "index.html": "/miniAppVulnerable/index.html",
-    "precache-manifest.81377a4b19d0136a509db7de58d3a23d.js": "/miniAppVulnerable/precache-manifest.81377a4b19d0136a509db7de58d3a23d.js",
+    "precache-manifest.36f187a5b071140eb6446e91758ed1e1.js": "/miniAppVulnerable/precache-manifest.36f187a5b071140eb6446e91758ed1e1.js",
     "service-worker.js": "/miniAppVulnerable/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/miniAppVulnerable/static/css/2.09e62520.chunk.css.map",
-    "static/js/2.553797f6.chunk.js.LICENSE.txt": "/miniAppVulnerable/static/js/2.553797f6.chunk.js.LICENSE.txt"
+    "static/js/2.31bba7e0.chunk.js.LICENSE.txt": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.16a7461e.js",
     "static/css/2.09e62520.chunk.css",
-    "static/js/2.553797f6.chunk.js",
-    "static/js/main.5aa2b557.chunk.js"
+    "static/js/2.31bba7e0.chunk.js",
+    "static/js/main.577dbcc9.chunk.js"
   ]
 }

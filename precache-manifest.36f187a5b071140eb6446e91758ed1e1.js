@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29245937a3cce205f7613f90d5829933",
+    "revision": "e4f68434b35bed665c064ef4b310fd4b",
     "url": "/miniAppVulnerable/index.html"
   },
   {
-    "revision": "4f610bc51e4c9d70341e",
+    "revision": "7761396cd8f00bcb7f82",
     "url": "/miniAppVulnerable/static/css/2.09e62520.chunk.css"
   },
   {
-    "revision": "4f610bc51e4c9d70341e",
-    "url": "/miniAppVulnerable/static/js/2.553797f6.chunk.js"
+    "revision": "7761396cd8f00bcb7f82",
+    "url": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/miniAppVulnerable/static/js/2.553797f6.chunk.js.LICENSE.txt"
+    "url": "/miniAppVulnerable/static/js/2.31bba7e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a8d0f6ebf909477d35a",
-    "url": "/miniAppVulnerable/static/js/main.5aa2b557.chunk.js"
+    "revision": "aa8288de4b6503996746",
+    "url": "/miniAppVulnerable/static/js/main.577dbcc9.chunk.js"
   },
   {
     "revision": "3ac66c1b593f445aee0a",
